@@ -14,3 +14,4 @@ npm run start:prod
 ### TODO:
 - styling
 - modulize routing
+- testing
